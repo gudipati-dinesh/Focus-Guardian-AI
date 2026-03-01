@@ -1,0 +1,191 @@
+{
+  "sessions": [
+    {
+      "id": "2026-02-28T22:37:43",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-02-28T22:37:43",
+      "ended": "2026-02-28T22:38:59",
+      "ticks": 2,
+      "focused": 2,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-02-28T22:50:18",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-02-28T22:50:18",
+      "ended": "2026-02-28T22:50:35",
+      "ticks": 1,
+      "focused": 1,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-02-28T23:04:26",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-02-28T23:04:26",
+      "ended": "2026-02-28T23:04:34",
+      "ticks": 0,
+      "focused": 0,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-02-28T23:07:27",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-02-28T23:07:27",
+      "ended": "2026-02-28T23:08:01",
+      "ticks": 1,
+      "focused": 1,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-03-01T02:14:57",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T02:14:57",
+      "ended": "2026-03-01T02:15:09",
+      "ticks": 1,
+      "focused": 1,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-03-01T02:29:45",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T02:29:45",
+      "ended": "2026-03-01T02:33:47",
+      "ticks": 3,
+      "focused": 0,
+      "distracted": 3,
+      "final_score": 76
+    },
+    {
+      "id": "2026-03-01T03:04:26",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T03:04:26",
+      "ended": "2026-03-01T03:06:25",
+      "ticks": 2,
+      "focused": 0,
+      "distracted": 2,
+      "final_score": 84
+    },
+    {
+      "id": "2026-03-01T03:13:36",
+      "user": "User",
+      "task": "i want to learn python",
+      "started": "2026-03-01T03:13:36",
+      "ended": "2026-03-01T03:15:13",
+      "ticks": 2,
+      "focused": 1,
+      "distracted": 1,
+      "final_score": 92
+    },
+    {
+      "id": "2026-03-01T03:22:56",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T03:22:56",
+      "ended": null,
+      "ticks": 2,
+      "focused": 0,
+      "distracted": 2,
+      "final_score": null
+    },
+    {
+      "id": "2026-03-01T03:32:20",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T03:32:20",
+      "ended": "2026-03-01T03:35:21",
+      "ticks": 3,
+      "focused": 2,
+      "distracted": 1,
+      "final_score": 95
+    },
+    {
+      "id": "2026-03-01T07:08:12",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T07:08:12",
+      "ended": "2026-03-01T07:10:33",
+      "ticks": 3,
+      "focused": 1,
+      "distracted": 2,
+      "final_score": 84
+    },
+    {
+      "id": "2026-03-01T09:56:03",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T09:56:03",
+      "ended": "2026-03-01T09:56:47",
+      "ticks": 1,
+      "focused": 1,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-03-01T09:59:26",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T09:59:26",
+      "ended": "2026-03-01T10:01:38",
+      "ticks": 2,
+      "focused": 1,
+      "distracted": 1,
+      "final_score": 92
+    },
+    {
+      "id": "2026-03-01T10:38:35",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T10:38:35",
+      "ended": null,
+      "ticks": 0,
+      "focused": 0,
+      "distracted": 0,
+      "final_score": null
+    },
+    {
+      "id": "2026-03-01T10:51:49",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T10:51:49",
+      "ended": "2026-03-01T10:52:04",
+      "ticks": 1,
+      "focused": 1,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-03-01T10:56:59",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T10:56:59",
+      "ended": "2026-03-01T10:57:09",
+      "ticks": 1,
+      "focused": 1,
+      "distracted": 0,
+      "final_score": 100
+    },
+    {
+      "id": "2026-03-01T11:00:53",
+      "user": "User",
+      "task": "i want to learn java",
+      "started": "2026-03-01T11:00:53",
+      "ended": "2026-03-01T11:01:21",
+      "ticks": 1,
+      "focused": 0,
+      "distracted": 1,
+      "final_score": 92
+    }
+  ]
+}
